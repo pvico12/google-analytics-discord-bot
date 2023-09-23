@@ -3,7 +3,7 @@ Discord Bot that can pull valuable data from Google Analytics that has been inco
 
 # Setup
 
-###Google Analytics API###
+### Google Analytics API ###
 
 Follow steps 1 and 2 from:
 https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries
