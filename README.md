@@ -36,7 +36,7 @@ Install the following packages with ```pip```
 ```
 pip install google-analytics-data
 pip install discord
-pip install dotenv
+pip install python-dotenv
 pip install table2ascii
 ```
 
